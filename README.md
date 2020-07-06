@@ -11,7 +11,7 @@
 
 ## Get Date Methods
 
-getDate, getMonth, getFullYear
+getDate, getMonth, getFullYear, toLocaleDateString
 
 ## Project Specifications
 
