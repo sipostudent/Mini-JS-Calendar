@@ -18,3 +18,5 @@ getDate, getMonth, getFullYear
 - Use getDate()	Get the day as a number (1-31)
 - Use getMonth()	Get the month as a number (0-11)
 - Use getFullYear()	Get the year as a four digit number (yyyy)
+- Use toLocaleDateString() to returns a string with Weekday
+- Use toLocaleDateString() to returns a string with Month
